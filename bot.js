@@ -1,6 +1,6 @@
 ﻿const Discord = require("discord.js");
 const client = new Discord.Client();
-const prefix = "!!#!#!@!$!$@!@#$سلشصيشيصشسيش@#";
+const prefix = "!!#!#!@!$!$@!@#$س123123شسيشسيبسلشسيللشصيشيصشسيش@#";
 
 
 
@@ -11,7 +11,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : Retir'ed ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(` Test 1 `,"http://twitch.tv/Death Shop")
+client.user.setGame(` عمو عمو عمو `,"http://twitch.tv/Death Shop")
 client.user.setStatus("Online")
 });
 
